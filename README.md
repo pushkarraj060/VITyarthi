@@ -8,23 +8,23 @@ Any updates you make during a session (like deposits, withdrawals, or PIN change
 
 The system provides four essential banking functions:
 
-1. Cash Withdrawal
+**1. Cash Withdrawal**
 
 Verifies available balance
 
 Deducts the withdrawal amount if funds are sufficient
 
-2. Cash Deposit
+**2. Cash Deposit**
 
 Accepts a deposit amount
 
 Adds the amount to your current balance
 
-3. Change PIN
+**3. Change PIN**
 
 Allows you to securely update your 4-digit PIN
 
-4. Account Profile
+**4. Account Profile**
 
 Displays full account details, including your current balance
 
@@ -70,6 +70,13 @@ python atm_simulator.py-
 Use the following example account to try out the features:
 [ACC_ID, NAME, PIN, BALANCE]
 [1001, ARYAN, 1204, 10000.00]
+
+**Screenshots / Results**
+
+<img width="644" height="267" alt="image" src="https://github.com/user-attachments/assets/fc8a4aef-cad3-4800-9e69-1e10b41bb567" />
+<img width="643" height="244" alt="image" src="https://github.com/user-attachments/assets/36b14366-cdb8-41b1-a3a8-cc9749782cfa" />
+<img width="675" height="246" alt="image" src="https://github.com/user-attachments/assets/fd4d1fb5-5e2f-42d2-a7eb-2bbd19eff5b8" />
+<img width="616" height="248" alt="image" src="https://github.com/user-attachments/assets/377c5b11-acba-4e1e-85f4-c5fb4187dd4f" />
 
 # How to Use the Program
 

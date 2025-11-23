@@ -33,6 +33,7 @@ Out of Scope (Limitations for Now)
 **Account Creation:** The system can only work with accounts already listed in the CSV file.
 
 **3. Design Rationale**
+
 **A. Data Structure Choices**
 
 CSV File (accounts.csv):
